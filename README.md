@@ -1,1 +1,1 @@
-#digging chinese 
+#Part-of-Speech-Tag
